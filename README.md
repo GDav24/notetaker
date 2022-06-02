@@ -37,9 +37,9 @@ The following images show the web application's appearance and functionality:
 
 # GitHub URL:
 
-https://github.com/gdav24/note-taker.git
+https://gdav24.github.io/notetaker/
 
 # Heroku Link:
 
-
+https://note-taker-57.herokuapp.com/
 
